@@ -1,9 +1,9 @@
 {
     "maturity": {
-        "option": "m0"
+        "option": "m1"
 
     },
     "dividend": {
-        "option": "d0"
+        "option": "d1"
     }
 }
