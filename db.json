@@ -1,10 +1,12 @@
-{
-    "26": {
-        "maturitySetting": {
-            "option": "m0"
-        },
-        "dividendSetting": {
-            "option": "d0"
+[
+    { 
+        "26": {
+            "maturitySetting": {
+                "option": 0
+            },
+            "dividendSetting": {
+                "option": 0
+            }
         }
     }
-}
+]
