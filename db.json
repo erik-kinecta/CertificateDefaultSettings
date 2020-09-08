@@ -1,8 +1,8 @@
 {
     "maturity": {
-        "option": "m1"
+        "option": "m1",
         "defaultCertTerm": "3 Month Certificate",
-        "defaultCertCode" "mt0"
+        "defaultCertCode": "mt0"
     },
     "dividend": {
         "option": "d1",
