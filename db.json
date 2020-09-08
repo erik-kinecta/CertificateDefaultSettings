@@ -1,6 +1,4 @@
 {
-    "certificateTerm": "3 Month Certificate",
-    "shareID" : "26",
     "maturity": {
         "option": "m1",
         "defaultCertTerm": "3 Month Certificate",
