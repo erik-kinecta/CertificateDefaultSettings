@@ -1,14 +1,9 @@
 {
-    "memberCerts": [
-        {
-            "26": {
-                "maturitySetting": {
-                    "option": 0
-                },
-                "dividendSetting": {
-                    "option": 0
-                }
-            }
-        }
-    ]
+    "maturity": {
+        "option": "m0"
+
+    },
+    "dividend": {
+        "option": "d0"
+    }
 }
