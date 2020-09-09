@@ -1,12 +1,12 @@
 {
     "maturity": {
-        "option": "m2",
+        "option": "m0",
         "maturityDefaultCertTerm": "",
         "maturityDefaultCertCode": "",
-        "maturityDefaultTransferAccountID": "1001235"
+        "maturityDefaultTransferAccountID": ""
     },
     "dividend": {
-        "option": "d1",
-        "dividendDefaultTransferAccountID": "1001235"
+        "option": "d0",
+        "dividendDefaultTransferAccountID": ""
     }
 }
