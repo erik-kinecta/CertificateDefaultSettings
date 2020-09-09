@@ -1,7 +1,7 @@
 {
     "certificate": {
         "term": "3 Month Certificate",
-        "shareID: "26"
+        "shareID": "26"
     },
     "maturity": {
         "option": "m0",
